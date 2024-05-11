@@ -1,4 +1,9 @@
 ### Hi there 👋
+Un cordial Saludo a cada uno de los presentes que estan viendo el contenido.👋👋👋👋
+Mi nombre es Benjamin Alejandro Sirpa Calizaya.
+👨‍💻👨‍💻👨‍💻👨‍💻Soy estudiante de la Carrera Ingenieria de Sistemas.👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻
+🏫🏫🏫🏫🏫🏫Estudió en al Universidad Catolica Boliviana "Sao Pablo"🏫🏫🏫🏫🏫🏫
+Actualmente estoy insertandome en la programacion de Python and Pseint (Interfaz y Matriz)
 
 <!--
 **Venja0518/Venja0518** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->    
